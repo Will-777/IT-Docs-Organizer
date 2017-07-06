@@ -1,15 +1,14 @@
-## IT (Information Technology) Documents Organizer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Will-777/spawn_mobs_mcpi.git)
-
-
-This is unpretentious small best practices suggestion  about how to organize your IT doc when you 
-are IT support engineer on site (dispatched from your company at customer place).  
+## IT (Information Technology) Documents Organizer 
+This is unpretentious small best practices suggestion about how to organize your IT doc when you 
+are IT support engineer on site (dispatched from your company at customer place) and you have 
+mostly only a shared folder at disposition.  
 
 
 ### Table of Contents
  - [Why?/me/that/oh gosh...](### Why ?! ?!)
  - [How it looks like](### How it looks like ?)
  - [How to install it](### How to install )
- - [What to do now](### How to install )
+ - [What to do now](### What to do now )
  
 *Read this in other languages: [English](README.md), [French](README.fr.md), [日本語](README.ja.md).*
 
@@ -28,31 +27,27 @@ Following tthos simple rules, my life became a bit easier.
 ### How it looks like ?
 
 
+
 ### How to install 
 
  1 .Just download the files and folder arborescence to make your own copy.
- 
- 
- 2 .Each time you have a doc, copy it into the proper folder.
- 3 .When you have spare time, take the model 
 
-blabla
 
- 2 .use the windows batch 
-```bash
-c:\> blabla 
-```
+### What to do now  
+Simple:
+ 1 .Each time you receive a doc, copy it into the proper folder.
+ 2 .When you have spare time, take the model and write down a process.
+ 3 .Remember that Windows has step recorder tool that could make 
+ your life a bit easier for taking screenshots.
+ 4 .Periodically verify that your doc is up-to-date.
 
 
 ### Things I need to do still..
-- [ ] Correct the bugs you will find.
+- [ ] Correct the bug into the batch file to automatise the folder creation step.
 
 
-### and remember :
-  - 0
-
-
-Enjoy ! :+1:
+If you are local IT engineer on site and you have some best practices to share,
+don't hesitate to comment.
 
 
 
