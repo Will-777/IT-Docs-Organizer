@@ -1,0 +1,7 @@
+what-to-put-here?
+
+Any document related to your Asset inventory.
+-Asset inventory Excel files (laptops, software, etc...)
+
+(for process related to assert inventory, suggestion is to put that 
+into "...\40-Process & Guidelines\40.10-Process\" folder.

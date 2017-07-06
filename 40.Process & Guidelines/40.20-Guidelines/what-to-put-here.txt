@@ -1,0 +1,7 @@
+what-to-put-here?
+
+Document you collected such as :
+
+-official User guide/ guidelines from maker (related to you hardware) 
+-Manual/official process from your customer if any (IMACD, Incident, ticket managements...)
+

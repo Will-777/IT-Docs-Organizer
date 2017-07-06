@@ -1,0 +1,6 @@
+what-to-put-here ?
+
+-Network diagram (logical)
+-Network diagram (physical)
+-Rack diagram
+-etc... 

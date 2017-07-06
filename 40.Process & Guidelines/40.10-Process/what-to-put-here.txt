@@ -1,0 +1,7 @@
+what-to-put-here?
+
+Document related about process your company defined
+(following the model you created).
+
+-All IT process (IMACD, Incident, ticket managements...)
+-Knowledge transfer (from IT engineer to IT engineer)
