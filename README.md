@@ -5,16 +5,15 @@ This is unpretentious small best practices suggestion  about how to organize you
 are IT support engineer on site (dispatched from your company at customer place).  
 
 
-###Table of Contents
- - [Why? /me/that/oh gosh...] (###Why)
- - [What you need to know](###What you need)
+### Table of Contents
+ - [Why?/me/that/oh gosh...](### Why ?! ?!)
+ - [How it looks like](### How it looks like ?)
  - [How to install it](### How to install )
- - [How to update your doc](### How to use the script)
-  - [Ignore Whitespace](#ignore-whitespace)
-
+ - [What to do now](### How to install )
+ 
 *Read this in other languages: [English](README.md), [French](README.fr.md), [日本語](README.ja.md).*
 
-###Why ?! ?!
+### Why ?! ?!
 It is quite often that as local on-site IT you might face the following issue:
 -the only one place you have to handle doc is a share drive
 -you can't use/implement another tool such as a wiki, intranet or a Sharepoint. 
@@ -26,13 +25,16 @@ So due to contrains I collected few idea here and there to define some easy prac
 Following tthos simple rules, my life became a bit easier.
 
 
+### How it looks like ?
+
+
 ### How to install 
-Just download the files and folder arborescence to make your own copy.
 
-
-
-
- 1 .step 1
+ 1 .Just download the files and folder arborescence to make your own copy.
+ 
+ 
+ 2 .Each time you have a doc, copy it into the proper folder.
+ 3 .When you have spare time, take the model 
 
 blabla
 
