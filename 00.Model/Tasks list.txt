@@ -1,0 +1,14 @@
+
+***while uploading excel and word file on github, cleaning of data :
+1) https://support.office.com/en-gb/article/Remove-hidden-data-and-personal-information-by-inspecting-workbooks-fdcb68f4-b6e1-4e92-9872-686cc64b6949
+2) https://www.howtogeek.com/180849/how-to-remove-the-hidden-personal-information-microsoft-office-adds-to-your-documents/
+
+
+*** upload process model win doc
+
+
+*** upload excel table list of process
+
+
+
+
